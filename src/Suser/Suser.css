@@ -1,0 +1,7 @@
+.total-info {
+    background-color: cyan;
+    border: 1px solid brown;
+    border-radius: 1px solid darkred;
+    margin: 10px;
+    padding: 5px;
+}

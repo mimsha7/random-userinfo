@@ -1,0 +1,25 @@
+.user-info{
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid red;
+    margin: 5px;
+    padding: 5px;
+    background-color: aquamarine;
+
+    align-items: center;
+}
+.user-info img {
+    height: 230px;
+    width: 227px;
+}
+button{
+    background-color: #f0c14b;
+    color: #111;
+    width: 90px;
+    height: 26px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 3px;
+    vertical-align: middle;
+}

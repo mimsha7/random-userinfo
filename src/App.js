@@ -1,23 +1,30 @@
-import logo from './logo.svg';
+import { useEffect, useState } from 'react';
 import './App.css';
+import Header from './Header/Header';
+import data from './data/data.json';
+import Users from './Users/Users';
+import Suser from './Suser/Suser';
 
 function App() {
+  const [user, setUser] = useState([]);
+  const [suser, setSuser] = useState([]);
+  const handleAdUser = (user) =>{
+    const newUser = [...suser, user];
+    setSuser(newUser);
+  }
+
+  useEffect(() => {
+    setUser(data);
+  },[])
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header></Header>
+      <Suser suser={suser}></Suser>
+      <ul>
+        {
+          user.map((user) => <Users user={user} key={user.id} handleAdUser={handleAdUser}> </Users>)
+        }
+      </ul>
     </div>
   );
 }

@@ -1,0 +1,242 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/K0Bz3JB/Cillian-Murphy.jpg",
+      "name": "Cillian Murphy",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "salary": 90000,
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/8sh6H70/leonardo.jpg",
+      "name": "Leonardo Decaprio",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771"
+      },
+      "salary": 80000,
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/sKT5Vjg/Blackpink-jisoo.jpg",
+      "name": "Kim Jisoo",
+      "username": "Samantha",
+      "email": "queenjisoo@backpink.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157"
+      },
+      "salary": 190000,
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/qjJWjj8/Lisa.jpg",
+      "name": "Lisa Monolova",
+      "username": "Lisaa",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257"
+      },
+      "salary": 180000,
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/B64L4DG/harshad.webp",
+      "name": "Harshad Chopda",
+      "username": "Abhi",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263"
+      },
+      "salary": 9000,
+      "phone": "(254)954-1289",
+      "website": "demarco.info"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/cg4XL25/Pranali-Rathod.jpg",
+      "name": "Pranali Rathod",
+      "username": "Pranu",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337"
+      },
+      "salary": 3000,
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/4ZjSXws/cristiano-ronaldo.jpg",
+      "name": "Cristiano Ronaldo",
+      "username": "Cr7.Skills",
+      "email": "cr7.Hoeger@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      },
+      "salary": 1000000,
+      "phone": "210.067.6132",
+      "website": "elvis.io"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/8Mn3xW1/Jennifer-Lawrence.jpg",
+      "name": "Jennifer Lawrence",
+      "username": "Jenny_Mieow",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "New York",
+        "zipcode": "45169"
+      },
+      "salary": 19000,
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/HqZTDC2/Glenna-Loughlin.jpg",
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109"
+      },
+      "salary": 2000,
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com"
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/c2HpVkw/IMG-20170402-013650-952.jpg",
+      "name": "Mimshadur Rahman",
+      "username": "Mimshad.Rahman",
+      "email": "mim.rahman@gmail.com",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      },
+      "salary": 25000,
+      "phone": "024-648-3804",
+      "website": "ambrose.net"
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co/1XsHWmR/nolan.webp",
+        "name": "Christopher Nolan",
+        "username": "Nolan5454",
+        "email": "Nol.Padberg@karina.biz",
+        "address": {
+          "street": "Kattie Turnpike",
+          "suite": "Suite 199",
+          "city": "Lebsackbury",
+          "zipcode": "31428-2278"
+        },
+        "salary": 900000,
+        "phone": "024-688-3805",
+        "website": "ambrose.net"
+      },
+      {
+        "id": 12,
+        "image": "https://i.ibb.co/3NPCFKN/image-w856.webp",
+        "name": "Tom Cruise",
+        "username": "Tom007",
+        "email": "Tom.007@gmail.com",
+        "address": {
+          "street": "NY City",
+          "suite": "Suite 200",
+          "city": "DC",
+          "zipcode": "41428-2007"
+        },
+        "salary":700000,
+        "phone": "024-007-3007",
+        "website": "cruise.net"
+      },
+      {
+        "id": 13,
+        "image": "https://i.ibb.co/J5kKDxJ/EMMA-WATSON.webp",
+        "name": "Emma Watson",
+        "username": "Emma.Potter",
+        "email": "Ema.Padberg@karina.com",
+        "address": {
+          "street": "Northen Park",
+          "suite": "Suite 004",
+          "city": "London",
+          "zipcode": "42800-2262"
+        },
+        "salary": 50000,
+        "phone": "024-001-3004",
+        "website": "potter.net"
+      },
+      {
+        "id": 14,
+        "image": "https://i.ibb.co/XJNqyXq/emma-stone.jpg",
+        "name": "Emma Stone",
+        "username": "Emma.Stone",
+        "email": "Emma.spider@men.com",
+        "address": {
+          "street": "East Port",
+          "suite": "Suite 005",
+          "city": "NY City",
+          "zipcode": "14283-2000"
+        },
+        "salary": 55000,
+        "phone": "024-005-3005",
+        "website": "spider.net"
+      },
+      {
+        "id": 15,
+        "image": "https://i.ibb.co/q7zxLxh/Johnny-Depp.webp",
+        "name": "Johny Depp",
+        "username": "Jhonny.Depp",
+        "email": "Depp.Pirate@carabian.com",
+        "address": {
+          "street": "Sothern Port",
+          "suite": "Suite 001",
+          "city": "NY City",
+          "zipcode": "00428-2003"
+        },
+        "salary": 890000,
+        "phone": "024-111-3001",
+        "website": "pirate.net"
+      }
+  ]
